@@ -28,13 +28,6 @@ const users = [
       profession: "Data Analyst",
       description: "Turns raw data into actionable insights to support decision-making.",
       tags: ["Data", "SQL", "Python", "Analytics"]
-    },
-    {
-      fullName: "Aditya Rao",
-      image: "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?q=80&w=687&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
-      profession: "Digital Marketer",
-      description: "Optimizes brand visibility through data-driven marketing campaigns.",
-      tags: ["SEO", "Growth", "Marketing", "Performance"]
     }
 ];
 
